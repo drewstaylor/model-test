@@ -1,0 +1,19 @@
+{
+  "name": "model-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google/model-viewer": "^1.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.0"
+  }
+}
